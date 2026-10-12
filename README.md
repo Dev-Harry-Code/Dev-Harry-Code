@@ -1,16 +1,166 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f766e,100:10b981&height=220&section=header&text=Hi!%20I'm%20Harshal%20%E2%9A%A1&desc=MaTriX%20Programmer%20%E2%80%A2%20Full-Stack%20%26%20AI%2FML%20Engineer&descSize=18&descAlignY=64&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Harshal Sharma Banner" />
+</p>
 
-<!--
-**Dev-Harry-Code/Dev-Harry-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://devharrycode.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=620&lines=Polyglot+Programmer+%E2%80%A2+Full-Stack+Engineer+%E2%9A%A1;B.Tech+CS+(AI+%26+ML)+%40+JIET+Jodhpur+%F0%9F%A7%A0;National-Level+IT+Presenter+%26+Builder+%F0%9F%8F%86;Creative+Engineering+%E2%80%A2+WebGL+%E2%80%A2+Next.js+%E2%9C%A8;Turning+Ideas+into+Real-World+AI+Products+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://devharrycode.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-devharrycode.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/devharry" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshal_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:dev.harshalsharma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dev.harshalsharma%40gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  </a>&nbsp;
+  <img src="https://hits.sh/github.com/Dev-Harry-Code.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=10b981&labelColor=0d1117" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2 align="center">💻 <code>devharrycode — -zsh</code></h2>
+
+```zsh
+devharrycode@matrix:~$ whoami
+> Harshal Sharma (Dev-Harry-Code) — Developer, AI Enthusiast & Aspiring Tech Entrepreneur
+> Combining intelligent systems, liquid-glass 3D interfaces & scalable full-stack engineering
+
+devharrycode@matrix:~$ cat education_and_leadership.yml
+education:  "B.Tech in Computer Science (AI & ML) @ JIET Group of Institutions, Jodhpur (2026–2030)"
+school:     "Delhi Public School, Jodhpur (PCM + Computer Science)"
+leadership: "Ex-President, IT Committee @ Delhi Public School Jodhpur"
+honors:     "🏆 National-Level IT Fest Presenter & Candidate"
+
+devharrycode@matrix:~$ echo $CURRENT_FOCUS
+"Building AI-assisted web platforms, interactive WebGL/Three.js experiences & shipping fast ⚡"
+```
+
+---
+
+<h2 align="center">🚀 Featured Builds & Live Deployments</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌌 <a href="https://devharrycode.vercel.app">DevHarryCode Portfolio</a></h3>
+      <p align="center">
+        Interactive 3D Liquid-Glass developer portfolio featuring custom WebGL mouse shaders, video backgrounds, and an interactive macOS-style <code>-zsh</code> terminal with audio synthesis.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://devharrycode.vercel.app"><img src="https://img.shields.io/badge/Live_Site-%E2%86%97-10B981?style=for-the-badge&labelColor=0d1117" /></a>
+        <a href="https://github.com/Dev-Harry-Code/DevHarryCode"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 <a href="https://samadhan-ai-prototype.vercel.app">Samadhan.ai Prototype</a></h3>
+      <p align="center">
+        AI-powered civic issue reporting and intelligent resolution platform prototype designed for streamlined user workflows and real-time tracking.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/AI_Workflow-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://samadhan-ai-prototype.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%97-22D3EE?style=for-the-badge&labelColor=0d1117" /></a>
+        <a href="https://github.com/Dev-Harry-Code/Samadhan.ai-Prototype-"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔭 <a href="https://github.com/Dev-Harry-Code/Scrappy">Scrappy</a></h3>
+      <p align="center">
+        Discovery-driven web application built with modern TypeScript architecture for curating, exploring, and organizing high-signal content streams.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Full--Stack-10B981?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Dev-Harry-Code/Scrappy"><img src="https://img.shields.io/badge/Explore_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⌚ <a href="https://github.com/Dev-Harry-Code/odin-watches">Odin Watches</a> &amp; <a href="https://github.com/Dev-Harry-Code/odin-recipes">Recipes</a></h3>
+      <p align="center">
+        Clean, responsive frontend craftsmanship showcasing custom CSS styling, semantic HTML5 structure, and luxury product showcase layouts.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/UI_Craft-22D3EE?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Dev-Harry-Code/odin-watches"><img src="https://img.shields.io/badge/Odin_Watches-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/Dev-Harry-Code/odin-recipes"><img src="https://img.shields.io/badge/Odin_Recipes-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ Arsenal &amp; Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,rust,html,css,react,nextjs,tailwind,threejs,fastapi,nodejs,firebase,mongodb,postgres,docker,git,vercel&perline=10&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Assistants_&_LLMs-10B981?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Full--Stack_Architecture-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/WebGL_&_3D_Shaders-A855F7?style=for-the-badge&logo=webgl&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Scalable_APIs-3B82F6?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Telemetry</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Harry-Code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=10b981&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" height="175" alt="GitHub Stats" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Harry-Code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=10b981&text_color=c9d1d9&bg_color=0d1117" height="175" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Dev-Harry-Code&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=22D3EE&currStreakLabel=10B981" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🐍 Matrix Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Harry-Code/Dev-Harry-Code/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Harry-Code/Dev-Harry-Code/output/github-contribution-grid-snake.svg">
+    <img alt="Matrix Contribution Snake" src="https://raw.githubusercontent.com/Dev-Harry-Code/Dev-Harry-Code/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+<h2 align="center">💬 Dev Transmission</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f766e,100:10b981&height=120&section=footer" width="100%" alt="Footer" />
+</p>
