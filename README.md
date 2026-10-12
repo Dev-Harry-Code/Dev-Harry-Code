@@ -180,41 +180,7 @@ engineering_focus:
 
 ---
 
-<h2 align="center">🖥️ macOS Terminal ASCII Telemetry</h2>
-
-<p align="center">
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=Dev-Harry-Code&theme=mac&scale=0.6" width="48%" alt="macOS Terminal ASCII Stats" />&nbsp;
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/top-lang?user=Dev-Harry-Code&theme=mac&top=8&scale=0.6" width="48%" alt="macOS Terminal ASCII Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=Dev-Harry-Code&theme=mac&scale=0.6" width="98%" alt="macOS Terminal ASCII Contribution Matrix" />
-</p>
-
----
-
-<h2 align="center">🏙️ 3D Isometric Contribution City &amp; Growing Pixel Bonsai</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="middle" align="center">
-      <h4>🏙️ 3D Isometric Activity Skyline</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Harry-Code/Dev-Harry-Code/main/dist/isocat.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Harry-Code/Dev-Harry-Code/main/dist/isocat-light.svg" />
-        <img src="https://raw.githubusercontent.com/Dev-Harry-Code/Dev-Harry-Code/main/dist/isocat.svg" width="100%" alt="3D Isometric Contribution City" />
-      </picture>
-    </td>
-    <td width="45%" valign="middle" align="center">
-      <h4>🌳 Deterministic 16-Bit Git Bonsai</h4>
-      <img src="https://raw.githubusercontent.com/Dev-Harry-Code/Dev-Harry-Code/main/bonsai/bonsai-growth.gif" width="100%" alt="Growing 16-Bit Pixel Bonsai" />
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🐍 Matrix Contribution Snake &amp; Gravity Physics Engine</h2>
+<h2 align="center">🐍 Matrix Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -222,10 +188,6 @@ engineering_focus:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Harry-Code/Dev-Harry-Code/output/github-contribution-grid-snake.svg" />
     <img alt="Matrix Contribution Snake" src="https://raw.githubusercontent.com/Dev-Harry-Code/Dev-Harry-Code/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dev-Harry-Code/Dev-Harry-Code/output/gravity.svg" width="100%" alt="GitHub Gravity Physics Graph : MATRIX" />
 </p>
 
 ---
