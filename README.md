@@ -160,13 +160,6 @@ engineering_focus:
 
 ---
 
-<h2 align="center">🧊 Glassmorphism Telemetry &amp; Top Repositories</h2>
-
-<p align="center">
-  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=Dev-Harry-Code&theme=glass" width="48%" alt="Glassmorphism GitHub Stats" />&nbsp;
-  <img src="https://github-stats-xi-six.vercel.app/api/top-repos?user=Dev-Harry-Code&theme=glass" width="48%" alt="Glassmorphism Top Repositories" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Harry-Code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=10b981&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" height="175" alt="GitHub Stats" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Harry-Code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=10b981&text_color=c9d1d9&bg_color=0d1117" height="175" alt="Top Languages" />
